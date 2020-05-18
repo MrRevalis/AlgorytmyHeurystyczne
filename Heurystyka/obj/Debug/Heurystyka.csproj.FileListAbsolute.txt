@@ -1,0 +1,7 @@
+C:\Users\Dominik\source\repos\Heurystyka\Heurystyka\bin\Debug\Heurystyka.exe.config
+C:\Users\Dominik\source\repos\Heurystyka\Heurystyka\bin\Debug\Heurystyka.exe
+C:\Users\Dominik\source\repos\Heurystyka\Heurystyka\bin\Debug\Heurystyka.pdb
+C:\Users\Dominik\source\repos\Heurystyka\Heurystyka\obj\Debug\Heurystyka.csprojAssemblyReference.cache
+C:\Users\Dominik\source\repos\Heurystyka\Heurystyka\obj\Debug\Heurystyka.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\source\repos\Heurystyka\Heurystyka\obj\Debug\Heurystyka.exe
+C:\Users\Dominik\source\repos\Heurystyka\Heurystyka\obj\Debug\Heurystyka.pdb

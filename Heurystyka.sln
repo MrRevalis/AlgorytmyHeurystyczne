@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heurystyka", "Heurystyka\Heurystyka.csproj", "{52607B23-F717-451E-98EC-80ACCCDA4282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52607B23-F717-451E-98EC-80ACCCDA4282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52607B23-F717-451E-98EC-80ACCCDA4282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52607B23-F717-451E-98EC-80ACCCDA4282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52607B23-F717-451E-98EC-80ACCCDA4282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1647FE80-65CA-437A-AF70-09E2CB09B743}
+	EndGlobalSection
+EndGlobal
